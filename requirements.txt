@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+nltk
+SQLAlchemy
+tensorflow
+scikit-learn
