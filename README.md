@@ -8,7 +8,7 @@ Recommendation model for the Bangkit 2024 Capstone Project
 3. Upload the IPYNB file to Google Colaboratory
 4. Run the file
 
-# deploy model
+# Implementing the model
 1. Download the files in the "model" folder: "rekomendasiByStoryID.h5" and "vectorizer.pkl" and save it
 2. Download the requirements.txt file and save it
 3. Create a virtual environment
