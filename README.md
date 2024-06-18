@@ -15,3 +15,11 @@ Recommendation model for the Bangkit 2024 Capstone Project
 4. Activate the virtual environment
 5. Install the required packages "pip install -r requirements.txt"
 6. enter "python app.py" to execute it.
+7. open the postman app
+8. click on the Body tab, select the raw format, and choose JSON format on the right side.
+9. for example, enter the following JSON:
+    {
+    "story_id": 10,
+    "top_n": 10
+  }
+10. send post request in the POSTMAN APP "http://127.0.0.1:5000/recommend"
