@@ -34,6 +34,6 @@ Recommendation model for the Bangkit 2024 Capstone Project ABA-I (Ayo Baca Indon
 12. For example, enter the following JSON:
     {
     "story_id": 10,
-    "top_n": 10
+    "top_n": 5
   }
 13. Send post request in the POSTMAN APP "http://127.0.0.1:5000/recommend"
