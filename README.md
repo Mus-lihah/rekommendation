@@ -1,12 +1,23 @@
 # rekommendation
-Recommendation model for the Bangkit 2024 Capstone Project 
-
+Recommendation model for the Bangkit 2024 Capstone Project ABA-I (Ayo Baca Indonesia)
 
 # execute the IPYNB file
 1. Download the IPYNB file
 2. Download the storyy.csv file and save it in the local directory
 3. Upload the IPYNB file to Google Colaboratory
 4. Run the file
+   
+# Preparing a database
+1. Download the file "story_db" from the "data" folder.
+2. Open the XAMPP application and start Apache and MySQL.
+3. Click on the "admin" button next to MySQL.
+4. Click on "New" to create a new database.
+5. In the "Database name" field, enter "story_db" and leave the other settings as they are, then click "Create".
+6. Go to the newly created database "story_db".
+7. Look at the top tab, then select the "Import" menu.
+8. In the "Choose file" section, select the "story_db" file that you downloaded.
+9. Scroll down and ensure the SQL format is selected.
+10. Scroll further down and click on "Import" to import the file.
 
 # Implementing the model
 1. Download tha app.py file
