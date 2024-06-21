@@ -37,3 +37,6 @@ Recommendation model for the Bangkit 2024 Capstone Project ABA-I (Ayo Baca Indon
     "top_n": 5
   }
 13. Send post request in the POSTMAN APP "http://127.0.0.1:5000/recommend"
+
+![image](https://github.com/Mus-lihah/rekommendation/assets/113479745/620b1e63-1b02-4fb4-bcc8-ab5ca6324578)
+
